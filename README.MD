@@ -1,7 +1,7 @@
 # Laboratorio 3 - Inteligencia Artificial
 ## CC3045 - Semestre I - 2024
 #### Andres Quinto - 18288
-#### Marlon XXXXX - XXXXX
+#### Marlon Hernández - 15177
 
 ### Descripción
 
