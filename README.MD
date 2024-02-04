@@ -20,10 +20,11 @@ Este laboratorio se enfoca en ejercicios prácticos y teóricos relacionados con
     - Implementación y evaluación de un perceptrón para clasificación binaria del dataset Iris.
 
 ### Resultados
+[Notebook](https://github.com/AndresQuinto5/IA_LAB3/blob/master/Laboratorio3.ipynb)
 
 ### Procedimiento
 Para cada tarea, se debe seguir un enfoque práctico, utilizando Python y Jupyter Notebook. Es fundamental citar todas las fuentes de información utilizadas.
-[Notebook](https://github.com/AndresQuinto5/IA_LAB3/blob/master/Laboratorio3.ipynb)
+
 
 ## Deployment
 ### Instalación de Dependencias
